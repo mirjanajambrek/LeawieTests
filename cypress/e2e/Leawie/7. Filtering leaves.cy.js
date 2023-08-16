@@ -1,5 +1,5 @@
 /// <reference types="cypress" />
-describe("Using filter", () => {
+describe("Using filter test suite", () => {
   beforeEach(() => {
     indexedDB.deleteDatabase("firebaseLocalStorageDb");
     cy.LoginToLeawie();
