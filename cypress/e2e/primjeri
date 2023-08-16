@@ -1,0 +1,82 @@
+afterEach(() => {
+  // cy.clearCookies();
+  // cy.visit("/login");
+  // cy.url().should("include", "login");
+  // cy.clearLocalStorage();
+  // cy.clearAllSessionStorage();
+  // indexedDB.deleteDatabase("firebaseLocalStorageDb");
+  // cy.clearFirebaseAuth();
+});
+
+// const Email = "developer@servalit.com";
+// const Password = "u4ZWG23gPj4sfne";
+
+// cy.get("[class='chakra-form__label css-67eq2c']")
+//   .first()
+//   .type("developer@servalit.com");
+// cy.get("[name=email]").type("developer@servalit.com");
+// cy.get("[name=password]").type("u4ZWG23gPj4sfne");
+
+1;
+// cy.visit("https://leawie.stg.servalit.com/login");
+//cy.get("#image0").should("exist");
+// cy.visit("https://leawie.stg.servalit.com/login");
+// cy.visit("https://leawie.stg.servalit.com/login");
+// cy.get("#field-\\:r0\\:-label").should("exist");
+// cy.get("label").contains("Email").should("exist");
+// cy.visit("https://leawie.stg.servalit.com/login");
+// cy.get(".chakra-input").first();
+// cy.get("#field-\\:r0\\:-label").should("exist");
+// cy.get("label").contains("Email").should("exist");
+// cy.get("[name=email]").should("be.visible");
+// cy.get("[type=email]").should("exist");
+// cy.visit("https://leawie.stg.servalit.com/login");
+// cy.get("#field-\\:r1\\:-label").should("be.visible");
+// cy.get("[class='chakra-form__label css-67eq2c']").last().should("have.text", "Password");
+
+2;
+// afterEach(() => {
+//   cy.get("div").contains("DS").click();
+//   cy.get("p").contains("Logout").click();
+//   cy.get("button").contains("Login").should("exist");
+// }),
+
+3;
+// cy.get("[value=delete]").click();
+// const dateStart = new Date(
+//   new Date() - Math.random() * 1e12).toLocaleDateString();
+
+4;
+// cy.get("#search").type("Mirjana Jambrek").click();
+// cy.get(".chakra-switch__thumb").click();
+// cy.get(".chakra-table__container").scrollTo("right");
+// cy.get("[value=delete]").click();
+// const dateStart = new Date(
+//   new Date() - Math.random() * 1e12
+// ).toLocaleDateString();
+
+5;
+// cy.get("#search").type("Mirjana Jambrek").click();
+// cy.get(".chakra-switch__thumb").click();
+// cy.get(".chakra-table__container").scrollTo("right");
+// cy.get('*[id^="menu-button-"]').eq(2).click();
+// cy.get("#type").click();
+// cy.get("#react-select-5-option-1").click();
+// cy.get("#reviewerId").click();
+// cy.get("#react-select-7-option-2").click();
+// cy.get("button").contains("Approve").click();
+
+6;
+// cy.get("#search").type("Mirjana Jambrek").click();
+// cy.get(".chakra-switch__thumb").click();
+// cy.get(".chakra-table__container").scrollTo("right");
+// cy.get('*[id^="menu-button-"]').eq(2).click();
+// cy.get("[value=delete]").click();
+// const dateStart = new Date(
+//   new Date() - Math.random() * 1e12
+// ).toLocaleDateString();
+// cy.get("#type").click();
+// cy.get("#react-select-5-option-1").click();
+// cy.get("#reviewerId").click();
+// cy.get("#react-select-7-option-2").click();
+// cy.get("button").contains("Approve").click();
