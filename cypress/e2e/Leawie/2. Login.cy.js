@@ -1,4 +1,4 @@
-describe("Login", () => {
+describe("Login test suite", () => {
   beforeEach(() => {
     indexedDB.deleteDatabase("firebaseLocalStorageDb");
     cy.visit("/login");
